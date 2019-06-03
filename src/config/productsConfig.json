@@ -1,0 +1,34 @@
+{
+  "VOUCHER": {
+    "code": "VOUCHER",
+    "name": "NoviCap Voucher",
+    "price": 5,
+    "discountCodes": ["a1"]
+  },
+  "TSHIRT": {
+    "code": "TSHIRT",
+    "name": "NoviCap T-Shirt",
+    "price": 20,
+    "discountCodes": ["a2"],
+    "bulk": {
+      "price": 19,
+      "count": 3
+    }
+  },
+  "MUG": {
+    "code": "MUG",
+    "name": "NoviCap Coffee Mug",
+    "price": 7.5,
+    "discountCodes": []
+  },
+  "CAP": {
+    "code": "CAP",
+    "name": "NoviCap Cap",
+    "price": 10,
+    "discountCodes": ["a1", "a2"],
+    "bulk": {
+      "price": 8,
+      "count": 3
+    }
+  }
+}

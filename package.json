@@ -1,0 +1,26 @@
+{
+  "name": "products-price",
+  "version": "1.0.0",
+  "description": "get products price with discounts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmedina87/products-with-discount"
+  },
+  "author": "Mariano Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmedina87/products-with-discount"
+  },
+  "homepage": "https://github.com/mrmedina87/products-with-discount",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}

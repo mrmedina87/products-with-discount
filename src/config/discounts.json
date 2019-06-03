@@ -1,0 +1,12 @@
+{
+  "a1": {
+    "code": "a1",
+    "discountName": "2-for-1 promotion",
+    "method": "getTwoForOneDiscount"
+  },
+  "a2": {
+    "code": "a2",
+    "discountName": "bulk purchase",
+    "method": "getBulkPurchaseDiscount"
+  }
+}
